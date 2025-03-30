@@ -1,0 +1,231 @@
+html {
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+#card {
+  border-radius: 20px;
+  background: linear-gradient(orangered, red);
+  width: 400px;
+  padding: 20px;
+}
+
+#input {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  padding-top: 50px;
+  width: 250px;
+  text-align: center;
+}
+
+#search-input-label {
+  font-size: 1.3em;
+  font-family: sans-serif;
+  padding-bottom: 5px;
+}
+
+#search-input {
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 10px 10px;
+}
+
+#search-button {
+  width: 100px;
+  border: none;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  background-color: white;
+  box-shadow: 10px 10px;
+}
+
+#output-top {
+  width: 390px;
+  height: 350px;
+}
+
+#pokemon-sprite {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 250px;
+  padding-bottom: 0;
+}
+
+
+#output-bottom {
+  width: 350px;
+  height: 250px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+td {
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 2px 2px;
+}
+
+#type-normal {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #a6a6a6;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-fighting {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #ff7519;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-flying {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #3ec9de;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-poison {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #7f30b0;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-ground {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #854e29;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-rock {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #ab907e;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-bug {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #9cbf4b;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-ghost {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #541273;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-fire {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #f50a16;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-water {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #0764f0;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-grass {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #0a8c20;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-electric {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: yellow;
+  color: black;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-psychic {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #c91089;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-ice {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #3da2eb;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+#type-dragon {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #2e4dd9;
+  color: white;
+  border-radius: 10px;
+  border: 1px solid;
+}
